@@ -1,0 +1,200 @@
+#bigbang {
+    font-family: Lato;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+#cosmos {
+    color: #FF8000;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    width: 1150px;
+    margin-left: 294px;
+}
+
+
+#bangtheory {
+    color: #D9AE00;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 74.5px;
+    width: 681px;
+    height: 48px;
+}
+
+#universe {
+    color: #6D81B4;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 74.5px;
+    width: 681px;
+    height: 145px;
+}
+
+
+#cosmospic {
+    margin-left: 67px;
+    margin-bottom: 101px;
+}
+
+
+#blackhole_container {
+    max-width: 1007px;
+    width: 100%;
+    padding: 64px;
+    border: 2px solid #000;
+    background: #FFCEBE;
+    margin-left: 74.5px;
+}
+
+
+#blackhole {
+    color: #F44E50;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+#holetheory {
+    color: #8B2B2C;
+    text-align: center;
+    font-family: Lato;
+    font-size: 22px;
+    max-width: 681px;
+    width: 100%;
+    height: 72px;
+    margin: 0 auto;
+}
+
+
+#blackhole_image {
+    max-width: 879px;
+    width: 100%;
+    height: 415px;
+    margin-top: 30px;
+    margin-left: 64px;
+}
+
+
+#string {
+    color: #4716E4;
+    text-align: right;
+    font-family: Lato;
+    font-size: 40px;
+    max-width: 696px;
+    width: 100%;
+    height: 48px;
+    margin-bottom: 24px;
+    text-align: right;
+    margin-left: 74px;
+}
+
+
+#stringtheory {
+    max-width: 648px;
+    width: 100%;
+    height: 174px;
+    padding: 24px;
+    border: 3px solid #FF5DA3;
+    background: #FFC1E3;
+    margin-left: 74px;
+    margin-bottom: 30px;
+    text-align: right;
+    color: #616161;
+    font-family: Lato;
+    font-size: 24px;
+}
+
+
+h3 {
+    max-width: 696px;
+    width: 100%;
+    height: 24px;
+    margin-bottom: 16px;
+    margin-left: 74px;
+    color: #414651;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+}
+
+#ullist {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#ullistone {
+    max-width: 668px;
+    width: 100%;
+    height: 72px;
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    margin-bottom: 8px;
+    vertical-align: middle;
+    margin-left: 74px;
+
+}
+
+
+#rectangle{
+    vertical-align: middle;
+    padding-right: 12px;
+}
+
+
+#ullisttwo {
+    max-width: 668px;
+    width: 100%;
+    height: 72px;
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    margin-bottom: 8px;
+    vertical-align: middle;
+    margin-left: 74px; 
+}
+
+
+
+#ullistthree {
+    max-width: 668px;
+    width: 100%;
+    height: 72px;
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    margin-bottom: 30px;
+    vertical-align: middle;
+    margin-left: 74px;
+}
+
+#universe_pic{
+    max-width: 696px;
+    width: 100%;
+    height: 415px;
+    margin-left: 74px;
+}
